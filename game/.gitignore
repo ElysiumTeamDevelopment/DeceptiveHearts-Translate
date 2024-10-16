@@ -1,0 +1,27 @@
+# ignore .vscode folder
+/.vscode
+
+#ignore README.md
+README.md
+/definitions/*.md
+/core/*.md
+/chrs/*.md
+/poem_responses/*.md
+
+#ignore saves
+/saves
+
+#ignore cache
+/cache
+
+#ignore all rpyc files
+*.rpyc
+/definitions/*.rpyc
+
+#ignore firstrun
+firstrun
+
+#ignore rpa archives, chr files and py files
+*.rpa
+*.chr
+*.py

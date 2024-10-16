@@ -1,0 +1,101 @@
+First of all, thanks to the Doki Doki Modding Club Discord server for giving us the idea of 
+creating a fanfiction like that that we both (iiTzWolfyy and Dyinide) enjoyed doing!
+
+Special thanks to Headlocker and CPC for playtesting and Calebthepianist for the anroid port.
+
+Anyway, apart from the DDLC Mod Template v.4.2.3 and DDMod Maker for Dyinide, here are the assets
+we used:
+
+######
+
+SPRITES - They all refer to someone in the Doki Doki Modding Club Discord server!!
+
+
+Junichi Sprite used for AwesomeNinja's character- Originally commissioned by awesomeninjaxd (Discord username):
+
+    - StormBlaze for drawing the sprites
+    - AwesomeNinjaXD for commissioning the sprites
+    - iansuller_blogger for the "corrupted" re-colors
+
+
+Downpour MC Sprite Pack used for Gubbey's character:
+
+    OC author and artist: lordgubbey (Discord), u/Gubbey (Reddit), @MrCrestfallen (Twitter)
+
+
+Messy Hair MC used for Empyre's character (discord: deadempyre):
+
+    elckarow (Discord) for making the pack
+    -u/Hayashi_Takahashi for making the sprites
+
+
+Yuki (Yuri's male variant used for Amana! (discord: AmanaRicha#6540)) and Naruki (Natsuki male variant used for Cleb! (Discord: calebthepianist)):
+
+    DIA (or diaboliiique)
+    CONTACT INFO:
+        FB/IG/DA: diaboliiique
+        Twitter: @fiiiiioooo
+        For business inquiries email me at diabolique.art@gmail.com
+
+Monika in a white dress casual sprite (edited for MPT by iiTzWolfyy and also released in the DDMC Server!):
+
+    lecraftx9 (Discord) and originally commissioned by HeadLocker!
+
+
+Splash screens (for example the green one with Monika right after the first scene):
+
+    Reference: silversnow__ (Discord)
+    Author: notfrosted (Discord) 
+    Coding: r.river
+
+Uncle Mugen and Unknown for the Park at Dusk BG
+StormBlazed76 for Dadyori sprites, Monika gives you pen CG, Canon MC sprites
+SomeDudeNamedAyat for Canon MC MPT
+Chronos, Yagamirai, Terra, DiabloGraves for Mood Posing Tool (MPT)
+max <3#1083 for the MC's night bedroom background
+Wretched Team for "Motion Picture Soundtrack" (from Exit Music Redux).
+Unknown for the residential evening background.
+u/Kutaba_ree, olivercnorton_ for the Saul Goodman (Braethan) sprites.
+Idonom for "Golden Hour Cover".
+Empyre for "Butterflies" and "Entropy".
+MewtwoRiley#7055 for "Beat Bass".
+949, Empyre, and StackerTheEOD for "Toss Bad Energy Off a Cliff"
+Leomonade33 for all the GUI assets.
+SuperSandwhich74 for the logo.
+Cylent-Nite for the Chad MC sprites and u/idonom for the MPT.
+Cyrke and Danko for the Kotonoha sprites and RedLeader for the MPT.
+Cyrke for the Sayonika sprites and Elckarow for the MPT.
+Retronika and StormBlazed76 for the Reiko sprites and MPT.
+Lecraftx9 and AwesomeNinjaXD for Mizumi sprites and MPT.
+NekoLaiS, Spirtowochka, and BlueGodXD for the Nastya sprites and Calebthepianist for the MPT.
+Kimagure After for the forest BG.
+Aster for "End Me Atmosphere".
+Andy for "Facing the Spider".
+LumaTVM for "DDMC Track Series: Warm Embrace".
+Stella for "OhAyOuUUuUuUUuuUUuuU".
+L4w1i3t for "Oh How my World Breaks".
+Anthony for "Jetsetsona".
+Flasium for "Holy fucking shit why did I gave birth to this".
+Pixabay for the crowd panicking sound effect.
+Itchylichi for the Kotonoha and Sayonika hugging CG.
+Bethseda for Doomslayer image.
+PngEgg for the portal where Empyre disappeared ;)
+Sound of the portal: Sound Effect from Pixabay
+Sound of the portal disappearing: Sound Effect from Pixabay
+
+Cast:
+Headlocker: Canon MC
+Kryo: Dadyori
+Amana: R63 Yuri
+Empyre: Messy-Hair MC
+Retro: Reiko
+CPC: Kotonoha
+Codex: Sayonika
+Merc: Chad MC
+Cleb: R63 Natsuki
+Ninja: Junichi
+Braethan: Saul Goodman
+MGT: Mizumi
+iiTzWolfyy: Nastya
+Doomslayer: Doomslayer
+Gubbey: Downpour MC
