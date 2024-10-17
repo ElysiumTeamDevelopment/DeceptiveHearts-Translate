@@ -371,7 +371,7 @@ label splashscreen:
         pause 1.0
 
         ## Switch to language selector. Borrowed from Ren'Py
-        if not persistent.has_chosen_language and translations:
+        if not persistent.has_chosen_language:
 
             if _preferences.language is None:
                 call choose_language from _call_choose_language

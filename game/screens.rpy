@@ -32,7 +32,8 @@ default extra_settings = True
 # If you are using the Extras Menu feature, set this line to True.
 default enable_extras_menu = False
 # If you are going to use extra languages, set this to True.
-default enable_languages = False
+default enable_languages = True
+
 
 ## Color Styles
 ################################################################################
@@ -1137,6 +1138,18 @@ screen ddlc_preferences():
             textbutton _("Unseen Text") action Preference("skip", "toggle")
             textbutton _("After Choices") action Preference("after choices", "toggle")
             # textbutton _("Transitions") action InvertSelected(Preference("transitions", "toggle"))
+        vbox:
+            style_prefix "radio"
+            label _("Language")
+            hbox:
+                viewport:
+                    mousewheel True
+                    scrollbars "vertical"
+                    ysize 120
+                    has vbox
+                    textbutton _("English") action Language(None)
+                    textbutton _("Russian") action Language('russian')
+
     
     null height (4 * gui.pref_spacing)
 
@@ -1286,25 +1299,6 @@ screen template_preferences():
 
     null height (4 * gui.pref_spacing)
 
-    hbox:
-        box_wrap True
-
-        if enable_languages and translations:
-            vbox:
-                style_prefix "radio"
-                label _("Language")
-                hbox:
-                    viewport:
-                        mousewheel True
-                        scrollbars "vertical"
-                        ysize 120
-                        has vbox
-
-                        for tran in translations:
-                            vbox:
-                                for tlid, tlname in tran:
-                                    textbutton tlname:
-                                        action Language(tlid)
 
 ## Preferences screen ##########################################################
 ##
@@ -2038,6 +2032,7 @@ style nvl_button:
 style nvl_button_text:
     properties gui.button_text_properties("nvl_button")
 
+
 screen choose_language():
     default local_lang = _preferences.language
     default chosen_lang = _preferences.language
@@ -2062,14 +2057,18 @@ screen choose_language():
 
             hbox:
                 xalign .5
-                for tran in translations:
-                    vbox:
-                        for tlid, tlname in tran:
-                            textbutton tlname:
-                                xalign .5
-                                action SetScreenVariable("chosen_lang", tlid)
-                                hovered SetScreenVariable("local_lang", tlid)
-                                unhovered SetScreenVariable("local_lang", chosen_lang)
+                vbox:
+                    textbutton _("English"):
+                        xalign .5
+                        action SetScreenVariable("chosen_lang", None)
+                        hovered SetScreenVariable("local_lang", None)
+                        unhovered SetScreenVariable("local_lang", chosen_lang)
+                    textbutton _("Russian"):
+                        xalign .5
+                        action SetScreenVariable("chosen_lang", "russian")
+                        hovered SetScreenVariable("local_lang", "russian")
+                        unhovered SetScreenVariable("local_lang", chosen_lang)
+                            
 
             $ lang_name = renpy.translate_string("{#language name and font}", local_lang)
             
@@ -2080,10 +2079,6 @@ screen choose_language():
                 textbutton renpy.translate_string(_("{#in language font}Select"), local_lang):
                     style "confirm_button"
                     action [Language(chosen_lang), Return()]
-
-translate None strings:
-    old "{#language name and font}"
-    new "English"
 
 label choose_language:
     call screen choose_language
