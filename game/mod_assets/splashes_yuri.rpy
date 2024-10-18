@@ -217,7 +217,7 @@ image yuri_name_purple:
     yoffset 0
     xoffset -375
     
-    Text("Many days later in", size=50, slow_cps=0,  color="#fff", insensitive_outlines=[(4, "#9962de", 0, 0), (2, "#9962de", 2, 2)], outlines=[(4, text_outline_color, 0, 0), (2, text_outline_color, 2, 2)])
+    Text(_("Many days later in"), size=50, slow_cps=0,  color="#fff", insensitive_outlines=[(4, "#9962de", 0, 0), (2, "#9962de", 2, 2)], outlines=[(4, text_outline_color, 0, 0), (2, text_outline_color, 2, 2)])
 
 image yuri_name_purple_2:  
     
@@ -225,7 +225,7 @@ image yuri_name_purple_2:
     yoffset 30
     xoffset -375
     
-    Text("#comedy", size=50, slow_cps=0,  color="fff", insensitive_outlines=[(4, "#9962de", 0, 0), (2, "#9962de", 2, 2)], outlines=[(4, text_outline_color, 0, 0), (2, text_outline_color, 2, 2)])
+    Text(_("#comedy"), size=50, slow_cps=0,  color="fff", insensitive_outlines=[(4, "#9962de", 0, 0), (2, "#9962de", 2, 2)], outlines=[(4, text_outline_color, 0, 0), (2, text_outline_color, 2, 2)])
 
 ###
 
@@ -359,7 +359,7 @@ image yuri_name_purple_3:
     yoffset 30
     xoffset -375
     
-    Text("One year later...", size=50, slow_cps=0,  color="#fff", insensitive_outlines=[(4, "#9962de", 0, 0), (2, "#9962de", 2, 2)], outlines=[(4, text_outline_color, 0, 0), (2, text_outline_color, 2, 2)])
+    Text(_("One year later..."), size=50, slow_cps=0,  color="#fff", insensitive_outlines=[(4, "#9962de", 0, 0), (2, "#9962de", 2, 2)], outlines=[(4, text_outline_color, 0, 0), (2, text_outline_color, 2, 2)])
 
 ###
 
@@ -504,7 +504,7 @@ image yuri_name_purple_4:
     yoffset 0
     xoffset -375
     
-    Text("Much later at", size=50, slow_cps=0,  color="#fff", insensitive_outlines=[(4, "#9962de", 0, 0), (2, "#9962de", 2, 2)], outlines=[(4, text_outline_color, 0, 0), (2, text_outline_color, 2, 2)])
+    Text(_("Much later at"), size=50, slow_cps=0,  color="#fff", insensitive_outlines=[(4, "#9962de", 0, 0), (2, "#9962de", 2, 2)], outlines=[(4, text_outline_color, 0, 0), (2, text_outline_color, 2, 2)])
 
 image yuri_name_purple_5:  
     
@@ -512,4 +512,4 @@ image yuri_name_purple_5:
     yoffset 30
     xoffset -375
     
-    Text("the interrogation...", size=50, slow_cps=0,  color="#fff", insensitive_outlines=[(4, "#9962de", 0, 0), (2, "#9962de", 2, 2)], outlines=[(4, text_outline_color, 0, 0), (2, text_outline_color, 2, 2)])
+    Text(_("the interrogation..."), size=50, slow_cps=0,  color="#fff", insensitive_outlines=[(4, "#9962de", 0, 0), (2, "#9962de", 2, 2)], outlines=[(4, text_outline_color, 0, 0), (2, text_outline_color, 2, 2)])

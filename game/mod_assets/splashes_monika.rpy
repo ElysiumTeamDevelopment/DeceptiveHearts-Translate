@@ -222,7 +222,7 @@ image first_monika_appearance:
     yoffset 0
     xoffset 375
     
-    Text("A few days later", size=50, slow_cps=0,  color="#fff", insensitive_outlines=[(4, "#45AA3C", 0, 0), (2, "#45AA3C", 2, 2)], outlines=[(4, text_outline_color, 0, 0), (2, text_outline_color, 2, 2)])
+    Text(_("A few days later"), size=50, slow_cps=0,  color="#fff", insensitive_outlines=[(4, "#45AA3C", 0, 0), (2, "#45AA3C", 2, 2)], outlines=[(4, text_outline_color, 0, 0), (2, text_outline_color, 2, 2)])
 
 image first_monika_appearance_2:  
     
@@ -230,7 +230,7 @@ image first_monika_appearance_2:
     yoffset 30
     xoffset 375
     
-    Text("At the park", size=50, slow_cps=0,  color="fff", insensitive_outlines=[(4, "#45AA3C", 0, 0), (2, "#45AA3C", 2, 2)], outlines=[(4, text_outline_color, 0, 0), (2, text_outline_color, 2, 2)])
+    Text(_("At the park"), size=50, slow_cps=0,  color="fff", insensitive_outlines=[(4, "#45AA3C", 0, 0), (2, "#45AA3C", 2, 2)], outlines=[(4, text_outline_color, 0, 0), (2, text_outline_color, 2, 2)])
 
 
 
@@ -240,7 +240,7 @@ image second_monika_appearance:
     yoffset 0
     xoffset 375
     
-    Text("Two years", size=50, slow_cps=0,  color="#fff", insensitive_outlines=[(4, "#45AA3C", 0, 0), (2, "#45AA3C", 2, 2)], outlines=[(4, text_outline_color, 0, 0), (2, text_outline_color, 2, 2)])
+    Text(_("Two years"), size=50, slow_cps=0,  color="#fff", insensitive_outlines=[(4, "#45AA3C", 0, 0), (2, "#45AA3C", 2, 2)], outlines=[(4, text_outline_color, 0, 0), (2, text_outline_color, 2, 2)])
 
 image second_monika_appearance_2:  
     
@@ -248,7 +248,7 @@ image second_monika_appearance_2:
     yoffset 30
     xoffset 375
     
-    Text("later...", size=50, slow_cps=0,  color="fff", insensitive_outlines=[(4, "#45AA3C", 0, 0), (2, "#45AA3C", 2, 2)], outlines=[(4, text_outline_color, 0, 0), (2, text_outline_color, 2, 2)])
+    Text(_("later..."), size=50, slow_cps=0,  color="fff", insensitive_outlines=[(4, "#45AA3C", 0, 0), (2, "#45AA3C", 2, 2)], outlines=[(4, text_outline_color, 0, 0), (2, text_outline_color, 2, 2)])
 
 
 image splash_monika_second_appearance:
@@ -741,7 +741,7 @@ image first_monika_appearance_4:
     yoffset 0
     xoffset 375
     
-    Text("6 months", size=50, slow_cps=0,  color="#fff", insensitive_outlines=[(4, "#45AA3C", 0, 0), (2, "#45AA3C", 2, 2)], outlines=[(4, text_outline_color, 0, 0), (2, text_outline_color, 2, 2)])
+    Text(_("6 months"), size=50, slow_cps=0,  color="#fff", insensitive_outlines=[(4, "#45AA3C", 0, 0), (2, "#45AA3C", 2, 2)], outlines=[(4, text_outline_color, 0, 0), (2, text_outline_color, 2, 2)])
 
 image first_monika_appearance_5:  
     
@@ -749,4 +749,4 @@ image first_monika_appearance_5:
     yoffset 30
     xoffset 375
     
-    Text("later...", size=50, slow_cps=0,  color="#fff", insensitive_outlines=[(4, "#45AA3C", 0, 0), (2, "#45AA3C", 2, 2)], outlines=[(4, text_outline_color, 0, 0), (2, text_outline_color, 2, 2)])
+    Text(_("later..."), size=50, slow_cps=0,  color="#fff", insensitive_outlines=[(4, "#45AA3C", 0, 0), (2, "#45AA3C", 2, 2)], outlines=[(4, text_outline_color, 0, 0), (2, text_outline_color, 2, 2)])

@@ -12856,21 +12856,21 @@ translate russian strings:
 
     # game/poem_responses/script-poemresponses.rpy:54
     old "[menutext]"
-    new ""
+    new "[menutext]"
 
     # game/poem_responses/script-poemresponses.rpy:54
     old "Sayori"
-    new ""
+    new "Сайори"
 
     # game/poem_responses/script-poemresponses.rpy:54
     old "Natsuki"
-    new ""
+    new "Нацуки"
 
     # game/poem_responses/script-poemresponses.rpy:54
     old "Yuri"
-    new ""
+    new "Юри"
 
     # game/poem_responses/script-poemresponses.rpy:54
     old "Monika"
-    new ""
+    new "Моника"
 

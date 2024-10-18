@@ -48,7 +48,7 @@ translate russian strings:
 
     # game/screens.rpy:499
     old "End Replay"
-    new "Конец повтора"
+    new "Завершить повтор"
 
     # game/screens.rpy:503
     old "Main Menu"
@@ -64,7 +64,7 @@ translate russian strings:
 
     # game/screens.rpy:705
     old "Return"
-    new "Назад"
+    new "Вернуться"
 
     # game/screens.rpy:802
     old "Version [config.version!t]\n"
@@ -76,7 +76,7 @@ translate russian strings:
 
     # game/screens.rpy:921
     old "{#file_time}%A, %B %d %Y, %H:%M"
-    new "{#file_time}%A, %B %d %Y, %H:%M"
+    new "{#file_time}%A, %d %B %Y, %H:%M"
 
     # game/screens.rpy:921
     old "empty slot"
@@ -84,7 +84,7 @@ translate russian strings:
 
     # game/screens.rpy:1122
     old "Display"
-    new "Экрае"
+    new "Режим экрана"
 
     # game/screens.rpy:1123
     old "Windowed"
@@ -92,7 +92,7 @@ translate russian strings:
 
     # game/screens.rpy:1124
     old "Fullscreen"
-    new "Полноэкранный"
+    new "Полный"
 
     # game/screens.rpy:1130
     old "Rollback Side"
@@ -100,19 +100,19 @@ translate russian strings:
 
     # game/screens.rpy:1131
     old "Disable"
-    new "Выключить"
+    new "Отключено"
 
     # game/screens.rpy:1132
     old "Left"
-    new "Слева"
+    new "Левая"
 
     # game/screens.rpy:1133
     old "Right"
-    new "Справа"
+    new "Правая"
 
     # game/screens.rpy:1138
     old "Unseen Text"
-    new "Не прочитанное"
+    new "Всего текста"
 
     # game/screens.rpy:1139
     old "After Choices"
@@ -124,7 +124,7 @@ translate russian strings:
 
     # game/screens.rpy:1161
     old "Auto-Forward Time"
-    new "Время авто перемотки"
+    new "Скорость авточтения"
 
     # game/screens.rpy:1173
     old "Music Volume"
@@ -132,19 +132,19 @@ translate russian strings:
 
     # game/screens.rpy:1185
     old "Sound Volume"
-    new "Громкость звука"
+    new "Громкость звуков"
 
     # game/screens.rpy:1195
     old "Test"
-    new "Проверить"
+    new "Тест"
 
     # game/screens.rpy:1199
     old "Voice Volume"
-    new ""
+    new "Громкость голоса"
 
     # game/screens.rpy:1214
     old "Mute All"
-    new "Заглушить всё"
+    new "Без звука"
 
     # game/screens.rpy:1225
     old "Game Modes"
@@ -188,7 +188,7 @@ translate russian strings:
 
     # game/screens.rpy:1277
     old "Enable"
-    new ""
+    new "Активировано"
 
     # game/screens.rpy:1285
     old "Reconnect"
@@ -216,7 +216,7 @@ translate russian strings:
 
     # game/screens.rpy:1849
     old "Skipping"
-    new "Пропускаем"
+    new "Пропускаю"
 
     # game/screens.rpy:2061
     old "{#in language font}Please select a language"

@@ -10,7 +10,7 @@ define persistent.demo = False
 define persistent.steam = ("steamapps" in config.basedir.lower())
 
 # This variable declares whether Developer Mode is on or off in the mod.
-define config.developer = False
+define config.developer = True
 
 # This python statement starts singleton to make sure only one copy of the mod
 # is running.
@@ -2384,10 +2384,10 @@ default faint_effect = None
 # To define a default name make a character name variable like in this example:
 #   default e_name = "Eileen"
 
-default s_name = "Sayori"
-default m_name = "Monika"
-default n_name = "Natsuki"
-default y_name = "Yuri"
+default s_name = _("Sayori")
+default m_name = _("Monika")
+default n_name = _("Natsuki")
+default y_name = _("Yuri")
 default k_name = "Kryo"
 default mc_name = "Headlocker"
 default a_name = "Amana"

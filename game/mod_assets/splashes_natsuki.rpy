@@ -222,7 +222,7 @@ image natsuki_name_pink:
     yoffset -75
     xoffset 350
     
-    Text("Meanwhile,", size=50, slow_cps=0,  color="#fff", insensitive_outlines=[(4, "#F870FF", 0, 0), (2, "#F870FF", 2, 2)], outlines=[(4, text_outline_color, 0, 0), (2, text_outline_color, 2, 2)])
+    Text(_("Meanwhile,"), size=50, slow_cps=0,  color="#fff", insensitive_outlines=[(4, "#F870FF", 0, 0), (2, "#F870FF", 2, 2)], outlines=[(4, text_outline_color, 0, 0), (2, text_outline_color, 2, 2)])
 
 image natsuki_name_pink_2:  
     
@@ -230,4 +230,4 @@ image natsuki_name_pink_2:
     yoffset 0
     xoffset 360
     
-    Text("with Merc, MGT\nand Retro...", size=50, text_align=0.5, slow_cps=0,  color="#fff", insensitive_outlines=[(4, "#F870FF", 0, 0), (2, "#F870FF", 2, 2)], outlines=[(4, text_outline_color, 0, 0), (2, text_outline_color, 2, 2)])
+    Text(_("with Merc, MGT\nand Retro..."), size=50, text_align=0.5, slow_cps=0,  color="#fff", insensitive_outlines=[(4, "#F870FF", 0, 0), (2, "#F870FF", 2, 2)], outlines=[(4, text_outline_color, 0, 0), (2, text_outline_color, 2, 2)])
