@@ -23,5 +23,4 @@ firstrun
 
 #ignore rpa archives, chr files and py files
 *.rpa
-*.chr
-*.py
+*.chrs
