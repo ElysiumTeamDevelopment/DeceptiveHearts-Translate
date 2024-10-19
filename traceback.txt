@@ -1,39 +1,51 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-  File "game/script.rpy", line 47, in script call
-    call story from _call_story
-  File "game/tl/russian/story.rpy", line 2537, in script
-    "{i}Настоящий разговор в Discord между Кодексом и CPC, дико.{/i"
-Exception: Open text tag at end of string '{i}Настоящий разговор в Discord между Кодексом и CPC, дико.{/i'.
+  File "renpy/common/00start.rpy", line 241, in script call
+    call _splashscreen from _call_splashscreen_1
+  File "game/definitions/splash.rpy", line 542, in script
+    $ renpy.movie_cutscene('tl/mod_assets/ElysiumTranslateVideoLogo.webm', stop_music=False)
+  File "game/definitions/splash.rpy", line 542, in <module>
+    $ renpy.movie_cutscene('tl/mod_assets/ElysiumTranslateVideoLogo.webm', stop_music=False)
+OSError: Couldn't find file 'tl/mod_assets/ElysiumTranslateVideoLogo.webm'.
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "game/script.rpy", line 47, in script call
-    call story from _call_story
-  File "game/tl/russian/story.rpy", line 2537, in script
-    "{i}Настоящий разговор в Discord между Кодексом и CPC, дико.{/i"
-  File "C:\work\renpy-8.2.0-sdk\renpy\ast.py", line 2557, in execute
-    Say.execute(self)
-  File "C:\work\renpy-8.2.0-sdk\renpy\ast.py", line 615, in execute
-    renpy.exports.say(who, what, *args, **kwargs)
-  File "C:\work\renpy-8.2.0-sdk\renpy\exports.py", line 1493, in say
-    who(what, *args, **kwargs)
-  File "C:\work\renpy-8.2.0-sdk\renpy\character.py", line 1391, in __call__
-    self.do_display(who, what, cb_args=self.cb_args, dtt=dtt, **display_args)
-  File "C:\work\renpy-8.2.0-sdk\renpy\character.py", line 1042, in do_display
-    display_say(who,
-  File "C:\work\renpy-8.2.0-sdk\renpy\character.py", line 719, in display_say
-    what_text.update()
-  File "C:\work\renpy-8.2.0-sdk\renpy\text\text.py", line 1970, in update
-    tokens = self.tokenize(text)
-  File "C:\work\renpy-8.2.0-sdk\renpy\text\text.py", line 2450, in tokenize
-    tokens.extend(textsupport.tokenize(i))
-  File "textsupport.pyx", line 169, in renpy.text.textsupport.tokenize
-Exception: Open text tag at end of string '{i}Настоящий разговор в Discord между Кодексом и CPC, дико.{/i'.
+  File "renpy/common/00start.rpy", line 241, in script call
+    call _splashscreen from _call_splashscreen_1
+  File "game/definitions/splash.rpy", line 542, in script
+    $ renpy.movie_cutscene('tl/mod_assets/ElysiumTranslateVideoLogo.webm', stop_music=False)
+  File "C:\work\renpy-8.2.0-sdk\renpy\ast.py", line 823, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\work\renpy-8.2.0-sdk\renpy\python.py", line 1178, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/definitions/splash.rpy", line 542, in <module>
+    $ renpy.movie_cutscene('tl/mod_assets/ElysiumTranslateVideoLogo.webm', stop_music=False)
+  File "C:\work\renpy-8.2.0-sdk\renpy\exports.py", line 1723, in movie_cutscene
+    rv = renpy.ui.interact(suppress_overlay=True,
+  File "C:\work\renpy-8.2.0-sdk\renpy\ui.py", line 301, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+  File "C:\work\renpy-8.2.0-sdk\renpy\display\core.py", line 2165, in interact
+    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, pause_modal=pause_modal, **kwargs) # type: ignore
+  File "C:\work\renpy-8.2.0-sdk\renpy\display\core.py", line 3018, in interact_core
+    renpy.audio.audio.periodic()
+  File "C:\work\renpy-8.2.0-sdk\renpy\audio\audio.py", line 1205, in periodic
+    raise_(exc[0], exc[1], exc[2])
+  File "lib/python3.9/future/utils/__init__.py", line 444, in raise_
+  File "C:\work\renpy-8.2.0-sdk\renpy\audio\audio.py", line 1183, in periodic_thread_main
+    periodic_pass()
+  File "C:\work\renpy-8.2.0-sdk\renpy\audio\audio.py", line 1125, in periodic_pass
+    c.periodic()
+  File "C:\work\renpy-8.2.0-sdk\renpy\audio\audio.py", line 534, in periodic
+    topf = load(filename)
+  File "C:\work\renpy-8.2.0-sdk\renpy\audio\audio.py", line 72, in load
+    rv = renpy.loader.load(fn, directory="audio")
+  File "C:\work\renpy-8.2.0-sdk\renpy\loader.py", line 672, in load
+    raise IOError("Couldn't find file '%s'." % name)
+OSError: Couldn't find file 'tl/mod_assets/ElysiumTranslateVideoLogo.webm'.
 
 Windows-10-10.0.19045 AMD64
 Ren'Py 8.2.0.24012702
 Deceptive Hearts 1.0
-Fri Oct 18 03:11:01 2024
+Sun Oct 20 04:40:25 2024

@@ -394,6 +394,7 @@ label splashscreen:
 
         $ persistent.first_run = True
         scene tos2
+        scene 
         with Dissolve(1.5)
         pause 1.0
 
@@ -538,9 +539,10 @@ label splashscreen:
     hide intro with Dissolve(0.5, alpha=True)
     if persistent.playthrough == 2 and renpy.random.randint(0, 3) == 0:
         $ splash_message = renpy.random.choice(splash_messages)
-    show splash_warning "[splash_message]" with Dissolve(0.5, alpha=True)
+    $ renpy.movie_cutscene('tl/russian/mod_assets/ElysiumTranslateVideoLogo.webm', stop_music=False)
+    show text _("This game is an unofficial fan game that is unaffiliated with Team Salvato.")  with Dissolve(0.5, alpha=True)
     $ pause(1.5)
-    hide splash_warning with Dissolve(0.5, alpha=True)
+    hide text with Dissolve(0.5, alpha=True)
     $ pause(0.5)
     $ config.allow_skipping = True
     return

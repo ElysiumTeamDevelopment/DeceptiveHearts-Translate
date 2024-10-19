@@ -26,5 +26,5 @@ translate russian strings:
 
     # game/core/lockdown_check.rpy:28
     old "I agree."
-    new ""
+    new "Я согласен."
 

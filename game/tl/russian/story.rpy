@@ -860,7 +860,7 @@ translate russian story_ee0c256f:
 translate russian story_c388a460:
 
     # k "But speaking of Headlocker, I bet he's jealous right now."
-    k "Но говоря о Headlockerе, я уверен, что сейчас он завидует."
+    k "Но говоря о Headlocker'е, я уверен, что сейчас он завидует."
 
 # game/story.rpy:301
 translate russian story_ec4ef2a1:
@@ -1028,7 +1028,7 @@ translate russian story_8d7bb4f4:
 translate russian story_3b43be71:
 
     # "Since day one, Amana has always simped for Yuri."
-    "С первого дня Amana всегда сходила с ума по Юри."
+    "С первого дня Amana всегда сходил с ума по Юри."
 
 # game/story.rpy:376
 translate russian story_b0c681c0:
@@ -1046,7 +1046,7 @@ translate russian story_f3b8ca2c:
 translate russian story_faea5615:
 
     # "Headlocker preferred Monika."
-    "Headlocker больше нравилась Моника."
+    "Headlocker'у больше нравилась Моника."
 
 # game/story.rpy:385
 translate russian story_94871ed8:
@@ -1064,7 +1064,7 @@ translate russian story_3efec5f1:
 translate russian story_17910779:
 
     # "Later, these two were simping over their favorite Dokis, down bad as always."
-    "Позже эти двое снова сходили с ума по своим любимым Доки, как всегда."
+    "Позже эти двое снова сходили с ума по своим любимым Докичам, как всегда."
 
 # game/story.rpy:393
 translate russian story_0aad768e:
@@ -1136,7 +1136,7 @@ translate russian story_2591fe19:
 translate russian story_fe77011f:
 
     # "That sentence was the final straw for Headlocker."
-    "Эта фраза стала последней каплей для Headlocker."
+    "Эта фраза стала последней каплей для Headlocker'a."
 
 # game/story.rpy:434
 translate russian story_a693e8c6:
@@ -1208,7 +1208,7 @@ translate russian story_060675d3:
 translate russian story_a0e97064:
 
     # "Headlocker approached Amana, who was still in a Yuri Yuri Daze."
-    "Headlocker подошёл к Амане, которая всё ещё была в трансе из-за Юри."
+    "Headlocker подошёл к Амане, который всё ещё был в трансе из-за Юри."
 
 # game/story.rpy:471
 translate russian story_fab1f219:
@@ -1220,7 +1220,7 @@ translate russian story_fab1f219:
 translate russian story_1c800371:
 
     # "Amana didn't budge, so Headlocker yelled louder."
-    "Amana не шелохнулась, поэтому Headlocker закричал громче."
+    "Amana не шелохнулся, поэтому Headlocker закричал громче."
 
 # game/story.rpy:475
 translate russian story_ef1f404f:
@@ -1232,13 +1232,13 @@ translate russian story_ef1f404f:
 translate russian story_7c457052:
 
     # "Amana still was in a daze."
-    "Amana всё ещё была в трансе."
+    "Amana всё ещё был в трансе."
 
 # game/story.rpy:478
 translate russian story_0fb4997a:
 
     # "Headlocker had one final resort."
-    "У Headlocker оставался последний шанс."
+    "У Headlocker'a оставался последний шанс."
 
 # game/story.rpy:479
 translate russian story_29f8313d:
@@ -1262,7 +1262,7 @@ translate russian story_b903e1e4:
 translate russian story_58a2a356:
 
     # "Immediately, Amana pinned him against the wall."
-    "Тут же Amana прижала его к стене."
+    "Тут же Amana прижал его к стене."
 
 # game/story.rpy:489
 translate russian story_ed8a032a:
@@ -1304,13 +1304,13 @@ translate russian story_5f88f190:
 translate russian story_81cee9e3:
 
     # "Amana released him and turned back to Yuri."
-    "Amana отпустила его и снова обернулась к Юри."
+    "Amana отпустил его и снова обернулась к Юри."
 
 # game/story.rpy:505
 translate russian story_0f67c4d9:
 
     # "Yuri's purple eyes pierced Headlocker's heart, threateningly."
-    "Фиолетовые глаза Юри пронзили сердце Headlockerа угрожающе."
+    "Фиолетовые глаза Юри пронзили сердце Headlocker'а угрожающе."
 
 # game/story.rpy:506
 translate russian story_54632334:
@@ -1328,7 +1328,7 @@ translate russian story_ead3d9f9:
 translate russian story_4607ff09:
 
     # "Amana hated him, Monika hated him and now Kryo probably hated him too."
-    "Amana ненавидела его, Моника ненавидела его, и теперь, вероятно, Kryo тоже его ненавидел."
+    "Amana ненавидел его, Моника ненавидела его, и теперь, вероятно, Kryo тоже его ненавидел."
 
 # game/story.rpy:520
 translate russian story_9db3bc15:
@@ -1447,7 +1447,7 @@ translate russian story_a0e643aa:
 translate russian story_e22fd4cf:
 
     # e "Fucking hell…{w=0.4} that's not what I meant Headlocker."
-    e "Чёрт возьми...{w=0.4} я не это имел в виду, Headlocker."
+    e "Чёрт возьми...{w=0.4} я не это имел в виду, Headlocker'а."
 
 # game/story.rpy:569
 translate russian story_d20ae699:
@@ -1519,7 +1519,7 @@ translate russian story_c794a3a5:
 translate russian story_3b46ee0e:
 
     # e "In turn, I'll kill Yuri. Then you can have Amana."
-    e "В свою очередь, я убью Юри. Тогда Amana будет твоей."
+    e "В свою очередь, я убью Юри. Тогда Amana будет твоим."
 
 # game/story.rpy:600
 translate russian story_2f3121a0:
@@ -1531,7 +1531,7 @@ translate russian story_2f3121a0:
 translate russian story_4b57b5e6:
 
     # e "Headlocker,{w=0.3} for fuck's sake,{w=0.3} are you in or not?"
-    e "Headlocker,{w=0.3} ради всего святого,{w=0.3} ты с нами или нет?"
+    e "Headlocker,{w=0.3} ради всего святого,{w=0.3} ты со мной или нет?"
 
 # game/story.rpy:606
 translate russian story_38919ae7:
@@ -1561,7 +1561,7 @@ translate russian story_84232070:
 translate russian story_1cdd6988:
 
     # e "The Remington in my closet will be used if you make one more dumbassery statement like that."
-    e "Я достану Ремингтон из шкафа, если ты ещё раз скажешь такую глупость."
+    e "Я достану Remington из шкафа, если ты ещё раз скажешь такую глупость."
 
 # game/story.rpy:619
 translate russian story_90bbc0b6:
@@ -1622,7 +1622,7 @@ translate russian story_d54d590a:
 translate russian story_bdc334fb:
 
     # "Amana posted Yuri fanart."
-    "Amana выложила фанарт с Юри."
+    "Amana выложил фанарт с Юри."
 
 # game/story.rpy:649
 translate russian story_74d5af31:
@@ -1682,7 +1682,7 @@ translate russian story_0f4a8e94:
 translate russian story_6f0b2235:
 
     # "Retro continued to eat garlic bread."
-    "Retro продолжал есть чесночный хлеб."
+    "Retro продолжала есть чесночный хлеб."
 
 # game/story.rpy:679
 translate russian story_66da950b:
@@ -1706,7 +1706,7 @@ translate russian story_d9d41498:
 translate russian story_98a25433:
 
     # r "I've also comitted war crimes in 37 countries."
-    r "И ещё я совершил военные преступления в 37 странах."
+    r "И ещё я совершила военные преступления в 37 странах."
 
 # game/story.rpy:690
 translate russian story_e3628948:
@@ -1778,7 +1778,7 @@ translate russian story_0e277659:
 translate russian story_3d700919:
 
     # "Headlocker turned,{w=0.3} and Empyre gave him a Remington."
-    "Headlocke обернулся,{w=0.3} и Empyre протянул ему Ремингтон."
+    "Headlocke обернулся,{w=0.3} и Empyre протянул ему Remington."
 
 # game/story.rpy:714
 translate russian story_1b3b8b23:
@@ -1790,7 +1790,7 @@ translate russian story_1b3b8b23:
 translate russian story_517671aa:
 
     # h "A Remington shotgun. The perfect way to forget her."
-    h "Ружье Ремингтон. Идеальный способ забыть её."
+    h "Ружье Remington. Идеальный способ забыть её."
 
 # game/story.rpy:720
 translate russian story_63579d40:
@@ -1832,7 +1832,7 @@ translate russian story_8ac244c7:
 translate russian story_b04c218e:
 
     # "The Remington was aimed directly at her head."
-    "Ремингтон был направлен прямо ей в голову."
+    "Remington был направлен прямо ей в голову."
 
 # game/story.rpy:738
 translate russian story_1b75bc63:
@@ -1868,7 +1868,7 @@ translate russian story_3f07a897:
 translate russian story_2cde8a38:
 
     # "Quickly, Headlocker turned his attention back to Monika."
-    "ыстро Headlocker вернул внимание обратно к Монике."
+    "Быстро Headlocker вернул внимание обратно к Монике."
 
 # game/story.rpy:748
 translate russian story_60bf11d6:
@@ -1952,7 +1952,7 @@ translate russian story_0dce8228:
 translate russian story_5196a52a:
 
     # "He took his Remington, and before Headlocker could process anything he was doing, aimed and fired the Remington twice at Monika."
-    "н взял свой Ремингтон, и прежде чем Headlocker успел осознать происходящее, он дважды выстрелил в Монику."
+    "Он взял свой Remington, и прежде чем Headlocker успел осознать происходящее, он дважды выстрелил в Монику."
 
 # game/story.rpy:769
 translate russian story_b8e39436:
@@ -1964,13 +1964,13 @@ translate russian story_b8e39436:
 translate russian story_ba253ece:
 
     # "He just realized the shots fired were not from him."
-    "н только сейчас понял, что выстрелы были не его."
+    "Он только сейчас понял, что выстрелы были не его."
 
 # game/story.rpy:771
 translate russian story_ce70995a:
 
     # "Monika slumped down into Kryo's arms, lifeless."
-    "оника рухнула в объятия Kryo, безжизненная."
+    "Моника рухнула в объятия Kryo, безжизненная."
 
 # game/story.rpy:772
 translate russian story_66d26d48:
@@ -2012,7 +2012,7 @@ translate russian story_1b74c775:
 translate russian story_b3064242:
 
     # "At that moment, Kryo suddenly looked up and saw Headlocker."
-    "В этот момент Kryo вдруг поднял взгляд и увидел Headlockerа."
+    "В этот момент Kryo вдруг поднял взгляд и увидел Headlocker'а."
 
 # game/story.rpy:788
 translate russian story_6279e30d:
@@ -2036,7 +2036,7 @@ translate russian story_3b9362eb:
 translate russian story_2a18339a:
 
     # "His Remington was gone."
-    "Его Ремингтон исчез."
+    "Его Remington исчез."
 
 # game/story.rpy:803
 translate russian story_50b50d81:
@@ -2060,7 +2060,7 @@ translate russian story_efe068e5:
 translate russian story_91dd4681:
 
     # "Headlocker threw his Remington over a ledge."
-    "Headlocker выбросил свой Ремингтон за край."
+    "Headlocker выбросил свой Remington за край."
 
 # game/story.rpy:813
 translate russian story_f52f897a:
@@ -2090,7 +2090,7 @@ translate russian story_c680aa42:
 translate russian story_f50e16a8:
 
     # "The love of his life…{w=0.3} gone."
-    "юбовь всей его жизни...{w=0.3} ушла."
+    "Любовь всей его жизни...{w=0.3} ушла."
 
 # game/story.rpy:848
 translate russian story_5ce8aa03:
@@ -2102,7 +2102,7 @@ translate russian story_5ce8aa03:
 translate russian story_d12d883e:
 
     # "Kryo strongly suspected Headlocker,{w=0.3} but deep down knew he would never {i}kill{/i} anyone like that."
-    "Kryo сильно подозревал Headlockerа,{w=0.3} но в глубине души знал, что тот никогда бы не {i}убил{/i} кого-то таким образом."
+    "Kryo сильно подозревал Headlocker'а,{w=0.3} но в глубине души знал, что тот никогда бы не {i}убил{/i} кого-то таким образом."
 
 # game/story.rpy:855
 translate russian story_a6574656:
@@ -2120,7 +2120,7 @@ translate russian story_b5f41e9f:
 translate russian story_73859a95:
 
     # "Headlocker had managed to be able to talk to Amana, but Amana was still grieving over the loss of Yuri."
-    "Headlockerу удалось поговорить с Amana, но он все еще скорбел по Юри."
+    "Headlocker'у удалось поговорить с Amana, но он всё еще скорбел по Юри."
 
 # game/story.rpy:860
 translate russian story_a69a8c98:
@@ -2318,7 +2318,7 @@ translate russian story_427d20ad:
 translate russian story_938711ca:
 
     # r "I could've saved them, but I ate garlic bread instead."
-    r "Я мог бы их спасти, но вместо этого ел чесночный хлеб."
+    r "Я могла бы их спасти, но вместо этого ела чесночный хлеб."
 
 # game/story.rpy:980
 translate russian story_cdcd864c:
@@ -2498,7 +2498,7 @@ translate russian story_fdbb48c6:
 translate russian story_12bb9165:
 
     # ni "For example, Head x Amana, Kryo x Empyre, Fit x River, etc."
-    ni "Например, Headlocker и Amana, Kryo и Empyre, Фит и Ривер и так далее."
+    ni "Например, Headlocker и Amana, Kryo и Empyre, Fit и River и так далее."
 
 # game/story.rpy:1081
 translate russian story_55d82432:
@@ -2546,7 +2546,7 @@ translate russian story_396533f4:
 translate russian story_c08add93:
 
     # ni "See you later Hun."
-    ni "Увидимся позже, дорогой."
+    ni "Увидимся позже, дорогая."
 
 # game/story.rpy:1098
 translate russian story_e7a41ae2:
@@ -2690,7 +2690,7 @@ translate russian story_449fec40:
 translate russian story_262642bf:
 
     # "Gubbey comes bursting through the door, scaring both Ninja and Cleb."
-    "Gubbey  врывается в дверь, пугая и Ninja, и Clebа."
+    "Gubbey  врывается в дверь, пугая и Ninja, и Cleb'а."
 
 # game/story.rpy:1153
 translate russian story_af658f16:
@@ -2714,7 +2714,7 @@ translate russian story_af658f16_1:
 translate russian story_3d03d13a:
 
     # "Alright, Gubbey can also break the fourth wall."
-    "адно, Gubbey также может ломать четвёртую стену."
+    "Ладно, Gubbey также может ломать четвёртую стену."
 
 # game/story.rpy:1160
 translate russian story_e962f49a:
@@ -2750,7 +2750,7 @@ translate russian story_083e8567:
 translate russian story_c32bcb62:
 
     # "They walked over to Cleb's computer, where he had a few notes jotted down."
-    "Они подошли к компьютеру Клеба, на котором были записаны несколько заметок."
+    "Они подошли к компьютеру Cleb`a, на котором были записаны несколько заметок."
 
 # game/story.rpy:1167
 translate russian story_35aa62e4:
@@ -2882,7 +2882,7 @@ translate russian story_f617f3eb:
 translate russian story_8b74fc7a:
 
     # "Ninja looked at Cleb in disbelief."
-    "Ninja посмотрел на Cleb с недоверием."
+    "Ninja посмотрел на Cleb'а с недоверием."
 
 # game/story.rpy:1220
 translate russian story_483422db:
@@ -3014,7 +3014,7 @@ translate russian story_5f80ed31:
 translate russian story_c2d4c2b6:
 
     # c "So just to get started, tell us what happened on that night."
-    c "ля начала, расскажи, что произошло той ночью."
+    c "Для начала, расскажи, что произошло той ночью."
 
 # game/story.rpy:1285
 translate russian story_e1b746de:
@@ -3110,7 +3110,7 @@ translate russian story_4bc72456:
 translate russian story_3a885ab6:
 
     # "Amana got up and pinned Cleb against the wall."
-    "Amana вскочил и прижал Cleb к стене."
+    "Amana вскочил и прижал Cleb'а к стене."
 
 # game/story.rpy:1318
 translate russian story_3af1109a:
@@ -3152,7 +3152,7 @@ translate russian story_48139b91:
 translate russian story_fa06edba:
 
     # ni "Amana, I get that you're upset, but put Cleb down."
-    ni "Amana, я понимаю, что ты расстроен, но отпусти Клеба."
+    ni "Amana, я понимаю, что ты расстроен, но отпусти Cleb'a."
 
 # game/story.rpy:1331
 translate russian story_1fc59784:
@@ -3164,7 +3164,7 @@ translate russian story_1fc59784:
 translate russian story_c5339b7d:
 
     # "Amana dropped Cleb to the ground."
-    "Amana уронил Cleb на пол."
+    "Amana уронил Cleb'а на пол."
 
 # game/story.rpy:1337
 translate russian story_edf37348:
@@ -3182,7 +3182,7 @@ translate russian story_6694ff96:
 translate russian story_a1401635:
 
     # ni "He may very well have been hidden."
-    ni "Во-первых, как ты сам сказал, его не было там той ночью."
+    ni "Его вполне могли спрятать"
 
 # game/story.rpy:1344
 translate russian story_39b50fd9:
@@ -3674,7 +3674,7 @@ translate russian story_2ccf60e5:
 translate russian story_9876d5c0:
 
     # a "You lied to me Headlocker."
-    a "Ты мне солгал, Хедлокер."
+    a "Ты мне солгал, Headlocker."
 
 # game/story.rpy:1625
 translate russian story_e5d61571:
@@ -3992,7 +3992,7 @@ translate russian story_15a8775c:
 translate russian story_e0d60144:
 
     # k "You tried to take advantage of Headlocker and manipulated him into getting what you wanted."
-    k "ы пытался воспользоваться Headlocker и манипулировал им, чтобы получить желаемое."
+    k "Ты пытался воспользоваться Headlocker'ом и манипулировал им, чтобы получить желаемое."
 
 # game/story.rpy:1805
 translate russian story_4ce43ed2:
@@ -4004,7 +4004,7 @@ translate russian story_4ce43ed2:
 translate russian story_277f9acd:
 
     # a "Headlocker...{w=0.5} I'm...{w=0.3} sorry."
-    a "Хедлокер...{w=0.5} Я...{w=0.3} sorry."
+    a "Headlocker...{w=0.5} Я...{w=0.3} Прости."
 
 # game/story.rpy:1813
 translate russian story_1e1956cd:
@@ -4342,7 +4342,7 @@ translate russian story_5c9ebb90:
 translate russian story_810e17eb:
 
     # "Together, Headlocker and Kryo leave #comedy behind."
-    "Вместе, Хедлокер и Крио покидают #comedy."
+    "Вместе, Headlocker и Kryo покидают #comedy."
 
 # game/story.rpy:2048
 translate russian story_919b78bc:
@@ -4366,7 +4366,7 @@ translate russian story_2b720eb5:
 translate russian story_bb2e8fb3:
 
     # b "Do you, Natsuki DDLC, take Cleb DDMC to be your legally wedded husband?"
-    b "Ты, Нацуки из DDLC, берёшь Cleb из DDMC в законные мужья?"
+    b "Ты, Нацуки из DDLC, берёшь Cleb'а из DDMC в законные мужья?"
 
 # game/story.rpy:2056
 translate russian story_cd949f64:
@@ -4384,19 +4384,19 @@ translate russian story_cb3a15a4:
 translate russian story_9d9fb6df:
 
     # c "I do."
-    c "Я обещаю что найду тебя, и сломаю тебя рёбра"
+    c "Я обещаю что найду тебя, и сломаю тебе рёбра"
 
 # game/story.rpy:2066
 translate russian story_960dd2a7_1:
 
     # b "You may kiss the bride."
-    b "Можешь послать нахуй невесту."
+    b "Можеште послать нахуй невесту."
 
 # game/story.rpy:2071
 translate russian story_78230415:
 
     # "Natsuki and Cleb kiss, and the entire DDMC goes wild."
-    "Нацуки и Cleb целуются, и весь DDMC приходит в ярость."
+    "Нацуки и Cleb целуются, и весь DDMC приходит в радость."
 
 # game/story.rpy:2077
 translate russian story_b258d0c6:
@@ -4516,7 +4516,7 @@ translate russian story_fba0427b:
 translate russian story_5501c4a7:
 
     # "He was happy for Cleb and Natsuki."
-    "Он был рад за Cleb и Нацуки."
+    "Он был рад за Cleb'а и Нацуки."
 
 # game/story.rpy:2147
 translate russian story_fe7504af:

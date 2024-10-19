@@ -4,7 +4,7 @@ translate russian strings:
 
     # game/mod_assets/splashes_monika.rpy:225
     old "A few days later"
-    new "Несколько дней спустя"
+    new "{size=-6}Несколько дней спустя"
 
     # game/mod_assets/splashes_monika.rpy:233
     old "At the park"
