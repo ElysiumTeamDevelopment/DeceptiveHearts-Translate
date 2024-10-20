@@ -220,7 +220,7 @@ translate russian strings:
 
     # game/screens.rpy:2061
     old "{#in language font}Please select a language"
-    new "{font=gui/font/allercyrillic.ttf}Пожалуйста выберите язык{/font}"
+    new "{font=tl/russian/gui/font/allercyrillic.ttf}Пожалуйста выберите язык{/font}"
 
     # game/screens.rpy:2068
     old "English"
@@ -232,11 +232,11 @@ translate russian strings:
 
     # game/screens.rpy:2086
     old "{#in language font}Select"
-    new "{font=gui/font/riffic-bold.ttf}Выбрать{/font}"
+    new "{font=tl/russian/gui/font/riffic-bold.ttf}Выбрать{/font}"
 
 translate russian style navigation_button_text:
     properties gui.button_text_properties("navigation_button")
-    font "gui/font/riffic-bold.ttf"
+    font "tl/russian/gui/font/riffic-bold.ttf"
     color "#7eafa0"
     outlines [(4, "#a200ff", 0, 0), (2, "#a200ff", 2, 2)]
     hover_outlines [(4, "#7eafa0", 0, 0), (2, "#7eafa0", 2, 2)]
@@ -244,7 +244,7 @@ translate russian style navigation_button_text:
     insensitive_outlines [(4, "#dea5ff", 0, 0), (2, "#dea5ff", 2, 2)]
 
 translate russian style nav_button_text:
-    font "gui/font/riffic-bold.ttf"
+    font "tl/russian/gui/font/riffic-bold.ttf"
     color "#7eafa0"
     outlines [(4, "#a200ff", 0, 0), (2, "#a200ff", 2, 2)]
     hover_outlines [(4, "#7eafa0", 0, 0), (2, "#7eafa0", 2, 2)]
@@ -254,7 +254,7 @@ translate russian style nav_button_text:
 
 
 translate russian style game_menu_label_text:
-    font "gui/font/riffic-bold.ttf"
+    font "tl/russian/gui/font/riffic-bold.ttf"
     size gui.title_text_size
     color "#fff"
     outlines [(6, text_outline_color, 0, 0), (3, text_outline_color, 2, 2)]
@@ -263,7 +263,7 @@ translate russian style game_menu_label_text:
 
 
 translate russian style pref_label_text:
-    font "gui/font/riffic-bold.ttf"
+    font "tl/russian/gui/font/riffic-bold.ttf"
     size 24
     color "#a200ff"
     outlines [(3, "#02a574", 0, 0), (1, "#02a574", 1, 1)]
@@ -271,11 +271,11 @@ translate russian style pref_label_text:
 
 translate russian style radio_button_text:
     properties gui.button_text_properties("radio_button")
-    font "gui/font/Halogen_0.ttf"
+    font "tl/russian/gui/font/Halogen_0.ttf"
     outlines []
 
 
 translate russian style check_button_text:
     properties gui.button_text_properties("check_button")
-    font "gui/font/Halogen_0.ttf"
+    font "tl/russian/gui/font/Halogen_0.ttf"
     outlines []

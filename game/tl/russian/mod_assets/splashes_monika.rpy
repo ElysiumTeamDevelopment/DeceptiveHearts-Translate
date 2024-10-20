@@ -26,3 +26,11 @@ translate russian strings:
     old "6 months"
     new "6 месяцев"
 
+# TODO: Translation updated at 2024-10-20 04:53
+
+translate russian strings:
+
+    # game/mod_assets/splashes_monika.rpy:418
+    old "A few days later..."
+    new "{size=-10}Несколько дней спустя..."
+

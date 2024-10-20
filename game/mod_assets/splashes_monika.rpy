@@ -415,7 +415,7 @@ image first_monika_appearance_3:
     yoffset 0
     xoffset 375
     
-    Text("A few days later...", size=50, slow_cps=0,  color="#ffffff", insensitive_outlines=[(4, "#000", 0, 0), (2, "#000", 2, 2)], outlines=[(4, "#000", 0, 0), (2, "#000", 2, 2)])
+    Text(_("A few days later..."), size=50, slow_cps=0,  color="#ffffff", insensitive_outlines=[(4, "#000", 0, 0), (2, "#000", 2, 2)], outlines=[(4, "#000", 0, 0), (2, "#000", 2, 2)])
 
 image splash_monika_3:
     contains:
