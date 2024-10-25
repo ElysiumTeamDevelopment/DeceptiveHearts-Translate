@@ -51,13 +51,13 @@ define -2 gui.interface_text_color = '#02a574'
 # These variables set the font and its' size for DDLC's text in-game.
 
 # This font is used for in-game text.
-define -2 gui.default_font = "gui/font/allercyrillic.ttf"
+define -2 gui.default_font = "tl/russian/gui/font/allercyrillic.ttf"
 
 # This font is used for character names.
-define -2 gui.name_font = "gui/font/riffic-bold.ttf"
+define -2 gui.name_font = "tl/russian/gui/font/riffic-bold.ttf"
 
 # This font is used for out-of-game text.
-define -2 gui.interface_font = "gui/font/allercyrillic.ttf"
+define -2 gui.interface_font = "tl/russian/gui/font/allercyrillic.ttf"
 
 # The text size of normal dialogue text.
 define -2 gui.text_size = 24
