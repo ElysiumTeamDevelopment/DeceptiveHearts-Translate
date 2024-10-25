@@ -7,9 +7,9 @@ init python:
     # effects in-game.
     def screenshot_srf():
         if renpy.version_tuple > (7, 3, 5, 606):
-            srf = renpy.display.draw.screenshot(None)
+            srf = renpy.display.draw.screenshot(renpy.game.interface.surftree)
         else:
-            srf = renpy.display.draw.screenshot(None, False)
+            srf = renpy.display.draw.screenshot(renpy.game.interface.surftree, False)
         
         return srf
 
